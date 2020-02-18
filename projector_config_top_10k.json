@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "My tensor",
+      "tensorShape": [
+        9136,
+        100
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/coopwilliams/w2v_movie_projector/master/movie_vectors_top_10k.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/coopwilliams/w2v_movie_projector/master/metadata_top_10k.tsv"
+    }
+  ]
+}
