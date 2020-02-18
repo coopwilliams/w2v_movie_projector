@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "All IMDb movies",
+      "tensorShape": [
+        24691,
+        100
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/coopwilliams/w2v_movie_projector/master/vectors_all.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/coopwilliams/w2v_movie_projector/master/metadata_all.tsv"
+    }
+  ]
+}
